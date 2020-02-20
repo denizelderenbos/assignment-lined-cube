@@ -1,0 +1,10 @@
+#gekke-svgs {
+  width: 1000px;
+  height: 1000px;
+  background: url('svg/grid.svg') no-repeat center;
+}
+
+#gekke-svgs img {
+  width: 1000px;
+  height: 1000px;
+}
